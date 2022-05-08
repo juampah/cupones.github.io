@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+body *{
+    font-family: roboto;
+} 
+.navbar{
+    background: #28A745
+}
+.imgCard{
+    width: 100%;
+    height: 280px;
+}
+.card{
+    width: 18rem;
+
+}
+.fas{
+    font-size: 60%;
+}
+.gris_105{
+    font-size: 105%;
+    color: #707070;
+}
+.gris_80{
+    font-size: 80%;
+    color: #707070;
+
+}
+.gris{
+    color: #707070;
+}
+.verde{
+    color: #28A745;
+
+}
+#contacto{
+    background: #28A745;
+    text-align: center;
+    color: white;
+}
+
+
+#contactoTitle{
+    color: white;
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+}
+button{
+    width: 130px;
+    height: 40px;
+}
